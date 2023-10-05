@@ -6,7 +6,7 @@
   Cursando o Ensino Médio no <strong> SESI </strong> e o segundo semestre em <strong> Eletroeletrônica </strong> no <strong>SENAI</strong>! </p>
 
 <p align="left">
-   <h3> 💼 Ferramentas: </h3>
+   <h3 style= "color: white;"> 💼 Ferramentas: </h3>
  <ul> 
    <li> <a href="https://www.solidworks.com/"> Solidworks; </a> </li>
    <li> <a href="https://www.labcenter.com/"> Proteus; </a> </li>
@@ -17,12 +17,12 @@
 </p>
 
 <p align="left">
- <h3> 📢 Contato: </h3>
+ <h3>  📢 Contato: </h3>
  💌 Sinta-se à vontade para entrar em contato comigo! ⤵️ </p>
 
 <p align="left">
  
-  <a href="guilhermebcanteiro@gmail.com" alt="Gmail">
+  <a href="mailto:guilhermebcanteiro@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/guilhermebcanteiro/" alt="LinkedIn">
