@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Olá! Sou o Guilherme Canteiro, me interesso por <strong> eletrônica </strong> e <strong> sistemas mecânicos </strong>.<br>
+ Olá! 👋 Sou o Guilherme Canteiro, me interesso por <strong> eletrônica </strong> e <strong> sistemas mecânicos </strong>.<br>
 <br>
- Cursando o Ensino Médio no <strong> SESI </strong> e o segundo semestre em Eletroeletrônica no <strong>SENAI </strong>
+ Cursando o Ensino Médio no <strong> SESI </strong> e o segundo semestre em <strong> Eletroeletrônica </strong> no <strong>SENAI </strong>
 </p>
 
 <!--
@@ -12,11 +12,15 @@
 </p>
 -->
 <p align="left">
-  💼 Ferramentas: Solidworks; 
+  💼 Ferramentas: <ul> 
+   <li> Solidworks; </li>
+   <li> Proteus; </li>
+  </ul>
+
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Sinta-se à vontade para entrar em contato comigo! ⤵️
 </p>
 
 <!-- <p align="left">
