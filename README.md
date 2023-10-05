@@ -3,7 +3,9 @@
 <p align="left"> 
   Olá! 👋 Sou o Guilherme Canteiro, me interesso por <strong> eletrônica </strong>, <strong> robótica </strong> e <strong> sistemas mecânicos</strong>. <br>
   <br>
-  Cursando o Ensino Médio no <strong> SESI </strong> e o segundo semestre em <strong> Eletroeletrônica </strong> no <strong>SENAI</strong>! </p>
+  Cursando o Ensino Médio no <strong> SESI </strong> e o segundo semestre em <strong> Eletroeletrônica </strong> no <strong>SENAI</strong>! <br>
+  <br>
+  ☁️ Conheça o meu <a href="https://www.cloudskillsboost.google/public_profiles/d87bd96b-111a-420f-ab3f-8cbc7d796e78"> Google Cloud Skills</a>! </p>
 
 <p align="left">
    <h3 style= "color: white;"> 💼 Ferramentas: </h3>
