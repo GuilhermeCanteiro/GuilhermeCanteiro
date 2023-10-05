@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
- <h3>  📢 Contato: </h3>
+ <h3 style= "color: white;"> 📢 Contato: </h3>
  💌 Sinta-se à vontade para entrar em contato comigo! ⤵️ </p>
 
 <p align="left">
