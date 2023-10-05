@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/GuilhermeCanteiro/GuilhermeCanteiro/assets/96209646/b4f54144-e8ed-4e0f-a0c0-0f03d8ed743d" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
  Olá! 👋 Sou o Guilherme Canteiro, me interesso por <strong> eletrônica </strong> e <strong> sistemas mecânicos </strong>.<br>
