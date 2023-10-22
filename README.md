@@ -12,7 +12,7 @@
  <ul> 
    <li> <a href="https://www.solidworks.com/"> Solidworks; </a> </li>
    <li> <a href="https://www.labcenter.com/"> Proteus; </a> </li>
-   <li> <a href=""> Fritzing; </a> 
+   <li> <a href="https://fritzing.org/"> Fritzing; </a> 
    </li>
  </ul>
 
