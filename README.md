@@ -1,7 +1,7 @@
 <img src="https://github.com/GuilhermeCanteiro/GuilhermeCanteiro/assets/96209646/b4f54144-e8ed-4e0f-a0c0-0f03d8ed743d" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá! 👋 Sou o Guilherme Canteiro, me interesso por <strong> eletrônica </strong>, <strong> robótica </strong> e <strong> sistemas mecânicos</strong>. <br>
+  Olá! 👋 Me chamo Guilherme Canteiro. Tenho interesse nos tópicos de <strong> eletrônica </strong>, <strong> robótica </strong> e <strong> mecânica </strong>. <br>
   <br>
   Cursando o Ensino Médio no <strong> SESI </strong> e o terceiro semestre em <strong> Eletroeletrônica </strong> no <strong>SENAI</strong>! <br>
   <br>
