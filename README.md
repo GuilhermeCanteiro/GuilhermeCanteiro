@@ -21,7 +21,10 @@
  </ul>
 
 </p>
-
+ <h3 style= "color: white;"> 🗂️ Portifólio: </h3>
+ Confira alguns de meus projetos em meus repositórios! <br>
+ Modelos <strong>individuais</strong> podem ser encontrados em meu perfil do <a href="https://grabcad.com/guilherme.canteiro-1"> GrabCad</a>!! <br>
+ 
 <p align="left">
  <h3 style= "color: white;"> 📢 Contato: </h3>
  💌 Sinta-se à vontade para entrar em contato comigo! ⤵️ </p>
