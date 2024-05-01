@@ -3,10 +3,13 @@
 <p align="left"> 
   Olá! 👋 Me chamo Guilherme Canteiro. Tenho interesse nos tópicos de <strong> eletrônica </strong>, <strong> robótica </strong> e <strong> mecânica </strong>. <br>
   <br>
+  
   Especializado em projetos <strong> mecânicos </strong> em CAD (Solidworks) e <strong> eletrônicos</strong>! 🔧⚡<br>
   <br>
-  Cursando o Ensino Médio no <strong> SESI </strong> e o terceiro semestre em <strong> Eletroeletrônica </strong> no <strong>SENAI</strong>! <br>
+  
+  Cursando o Ensino Médio no <strong> SESI </strong> e o terceiro semestre em <strong> Eletroeletrônica </strong> com <strong> aperfeiçoamento profissional </strong:> no <strong>SENAI</strong>! <br>
   <br>
+  
   ☁️ Conheça o meu <a href="https://www.cloudskillsboost.google/public_profiles/d87bd96b-111a-420f-ab3f-8cbc7d796e78"> Google Cloud Skills</a>! </p>
   <strong> <a href="https://www.instagram.com/fran_robots/"> #franrobots!! </a> </strong> ⚙️
 
