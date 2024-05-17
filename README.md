@@ -4,7 +4,7 @@
   Olá! 👋 Me chamo Guilherme Canteiro. Tenho interesse nos tópicos de <strong> eletrônica </strong>, <strong> robótica </strong> e <strong> mecânica </strong>. <br>
   <br>
   
-  Especializado em projetos <strong> mecânicos </strong> em CAD (Solidworks) e <strong> eletrônicos</strong>! 🔧⚡<br>
+  Especializado em projetos <strong> mecânicos </strong> em CAD e <strong> eletrônicos </strong>! 🔧⚡<br>
   <br>
   
   Cursando o Ensino Médio no <strong> SESI </strong> e o terceiro semestre em <strong> Eletroeletrônica </strong> com <strong> aperfeiçoamento profissional </strong> no <strong>SENAI</strong>! <br>
