@@ -22,9 +22,11 @@
    <h3 style= "color: white;"> 💼 Ferramentas: </h3>
  <ul> 
    <li> <a href="https://www.solidworks.com/"> Solidworks; </a> </li>
+   <li> <a href="https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription&plc=FSN"> Fusion 360; </a></li>
    <li> <a href="https://www.labcenter.com/"> Proteus; </a> </li>
+   <li> <a href="https://www.art-systems.de/www/site/en/fluidsim/"> FluidSIM Pneumatics/Hydraulics </a></li>
    <li> <a href="https://easyeda.com/"> EasyEDA; </a> </li>
-   <li> <a href="https://fritzing.org/"> Fritzing; </a> 
+   <li> <a href="https://fritzing.org/"> Fritzing. </a> 
    </li>
  </ul>
 
