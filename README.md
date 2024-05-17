@@ -24,7 +24,7 @@
    <h4 style= "color:white;"> Modelagem 3D </h4>
    <li> <a href="https://www.solidworks.com/"> Solidworks; </a> </li>
    <li> <a href="https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription&plc=FSN"> Fusion 360; </a></li>
-   <li> <a href="https://ultimaker.com/software/ultimaker-cura/"> Ultimaker Cura </a></li>
+   <li> <a href="https://ultimaker.com/software/ultimaker-cura/"> Ultimaker Cura. </a></li>
      
    <h4 style= "color: white;"> Eletrônica </h4>
    <li> <a href="https://www.labcenter.com/"> Proteus; </a> </li>
@@ -32,7 +32,7 @@
    <li> <a href="https://fritzing.org/"> Fritzing. </a> </li>
 
    <h4 style ="color: white;"> Extras </h4>
-   <li> <a href="https://www.art-systems.de/www/site/en/fluidsim/"> FluidSIM Pneumatics/Hydraulics; </a></li>
+   <li> <a href="https://www.art-systems.de/www/site/en/fluidsim/"> FluidSIM Pneumatics/Hydraulics. </a></li>
  </ul>
 
 </p>
